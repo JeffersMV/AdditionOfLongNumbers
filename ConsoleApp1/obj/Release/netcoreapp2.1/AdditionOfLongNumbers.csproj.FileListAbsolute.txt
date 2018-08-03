@@ -1,0 +1,10 @@
+D:\AdditionOfLongNumbers\ConsoleApp1\bin\Release\netcoreapp2.1\AdditionOfLongNumbers.deps.json
+D:\AdditionOfLongNumbers\ConsoleApp1\bin\Release\netcoreapp2.1\AdditionOfLongNumbers.runtimeconfig.json
+D:\AdditionOfLongNumbers\ConsoleApp1\bin\Release\netcoreapp2.1\AdditionOfLongNumbers.runtimeconfig.dev.json
+D:\AdditionOfLongNumbers\ConsoleApp1\bin\Release\netcoreapp2.1\AdditionOfLongNumbers.dll
+D:\AdditionOfLongNumbers\ConsoleApp1\bin\Release\netcoreapp2.1\AdditionOfLongNumbers.pdb
+D:\AdditionOfLongNumbers\ConsoleApp1\obj\Release\netcoreapp2.1\AdditionOfLongNumbers.csproj.CoreCompileInputs.cache
+D:\AdditionOfLongNumbers\ConsoleApp1\obj\Release\netcoreapp2.1\AdditionOfLongNumbers.AssemblyInfoInputs.cache
+D:\AdditionOfLongNumbers\ConsoleApp1\obj\Release\netcoreapp2.1\AdditionOfLongNumbers.AssemblyInfo.cs
+D:\AdditionOfLongNumbers\ConsoleApp1\obj\Release\netcoreapp2.1\AdditionOfLongNumbers.dll
+D:\AdditionOfLongNumbers\ConsoleApp1\obj\Release\netcoreapp2.1\AdditionOfLongNumbers.pdb
